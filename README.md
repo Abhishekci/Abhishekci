@@ -1,4 +1,4 @@
-Hi there 👋 I'm Abhishek Itagimath
+###Hi there 👋 I'm Abhishek Itagimath
 🚀 I'm a Full Stack Developer with 2.5 years of experience specializing in Frontend Development and a strong foundation in project management from my previous role as a Project Associate. My journey into IT is entirely self-driven, thanks to endless hours of online learning 📚, and I’m passionate about crafting smooth, user-friendly interfaces.
 
 💼 Technical Skills
